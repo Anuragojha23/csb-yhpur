@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anuragojha23.github.io/csb-yhpur/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://anuragojha23.github.io/csb-yhpur/static/js/main.db92300f.chunk.js",
+    "main.js.map": "https://anuragojha23.github.io/csb-yhpur/static/js/main.db92300f.chunk.js.map",
+    "runtime-main.js": "https://anuragojha23.github.io/csb-yhpur/static/js/runtime-main.ce397c1e.js",
+    "runtime-main.js.map": "https://anuragojha23.github.io/csb-yhpur/static/js/runtime-main.ce397c1e.js.map",
+    "static/js/2.b87bcc26.chunk.js": "https://anuragojha23.github.io/csb-yhpur/static/js/2.b87bcc26.chunk.js",
+    "static/js/2.b87bcc26.chunk.js.map": "https://anuragojha23.github.io/csb-yhpur/static/js/2.b87bcc26.chunk.js.map",
+    "index.html": "https://anuragojha23.github.io/csb-yhpur/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://anuragojha23.github.io/csb-yhpur/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b87bcc26.chunk.js.LICENSE.txt": "https://anuragojha23.github.io/csb-yhpur/static/js/2.b87bcc26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce397c1e.js",
+    "static/js/2.b87bcc26.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.db92300f.chunk.js"
+  ]
+}
